@@ -48,7 +48,7 @@ Now we have a client of ``` psql ``` installed.
     /usr/bin/psql
 ```
 
-# Requirement to login 
+# Requirements to login 
 
     1. Database Service: host_name  
     2. Port: 5432
