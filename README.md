@@ -1,4 +1,4 @@
-# PostgresQL Basics in the adminitration way
+# PostgresQL Basics in the adminitration way in AWS
 
 After installing you must know there is basic concepts to deliver users to programes to keep the database secure even if there is no production environments, maybe you don't want to loose any data or you want to keep running the development with out issues.
 
